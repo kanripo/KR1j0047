@@ -1,6 +1,6 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 字㝈
-#+DATE: 2017-03-23 10:40:09.220691
+#+DATE: 2017-03-23 11:02:50.754673
 #+PROPERTY: ID KR1j0047
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: WITNESS WYG    
@@ -131,7 +131,7 @@
 　　月肉舟丹¶
 ¶
 <pb:KR1j0047_WYG_000-5b>¶
-　　丿(撇)乁(弗)&KR1763;(曳)&KR2151;(移)乙&KR5277;(軋)¶
+　　丿(撇)乁(弗)&KR1763;(曳)&KR2151;(移)乙&KR5281;(軋)¶
 ¶
 　　木(目)朩(髕)□(潑)¶
 ¶
